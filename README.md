@@ -13,9 +13,9 @@
 
 ### **技术栈:**
 
-编程语言：C++ Python
-算法：SLAM、目标监测、语义分割
-机器人：ROS MATLAB 嵌入式 C
+编程语言：C++ Python<br>
+算法：SLAM、目标监测、语义分割<br>
+机器人：ROS MATLAB 嵌入式 C<br>
 计算机视觉：OpenCV Pytorch
 
 
